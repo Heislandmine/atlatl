@@ -1,3 +1,5 @@
 .venv
 *.secret
 .vscode
+secret
+/**/__pycache__
